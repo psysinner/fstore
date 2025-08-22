@@ -1,4 +1,4 @@
-# +++ Made By King [telegram username: @THEHYBRIDS] +++
+# +++ Made By King [telegram username: @kerala_thundlinks] +++
 
 import asyncio
 import os

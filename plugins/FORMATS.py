@@ -1,4 +1,4 @@
-# +++ Made By King [telegram username: @THEHYBRIDS] +++
+# +++ Made By King [telegram username: @kerala_thundlinks] +++
 
 #text formatting....
 
@@ -50,7 +50,7 @@ ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
 ◈ ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ◈ ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
 ◈ ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
-🧑‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: @THEHYBRIDS</b></blockquote>"""
+🧑‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: @kerala_thundlinks</b></blockquote>"""
 
 SETTING_TXT = """<b>⚙️ Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>◈ ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
